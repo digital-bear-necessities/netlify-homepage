@@ -10,7 +10,7 @@ import AppFooter from '../components/Footer'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Gatsby + Bulma & Bloomer" />
+    <Helmet title="Digital Bear Necessities Ltd" />
     {children()}
     <AppFooter />
   </div>
