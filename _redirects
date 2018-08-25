@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://boring-heisenberg-124748.netlify.com/* https://bears.digital/:splat 301!
