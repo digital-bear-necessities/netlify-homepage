@@ -32,7 +32,6 @@ class IndexPage extends React.Component {
       <Hero isFullHeight style={{backgroundColor: this.state.color}}>
         <HeroBody>
           <Container hasTextAlign="centered">
-            <Title isSize="1">Coming Soon</Title>
             <Columns isCentered>
               <Column isSize='narrow'>
                 <Image src="../brown-bear.svg" color='#88C5CC' setBackground={this.setBackground} />
