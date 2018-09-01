@@ -9,6 +9,8 @@
     "font-awesome": "^4.7.0",
     "gatsby": "^1.9.241",
     "gatsby-link": "^1.6.39",
+    "gatsby-plugin-google-analytics": "^1.0.31",
+    "gatsby-plugin-hubspot": "^1.0.0",
     "gatsby-plugin-react-helmet": "^2.0.8",
     "gatsby-plugin-sass": "1.0.19",
     "react-helmet": "^5.2.0"
